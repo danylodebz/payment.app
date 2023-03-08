@@ -1,0 +1,20 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.label {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.input {
+  border: 0;
+}
+
+ {
+  padding: 20px;
+}
